@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Strivers-DSA/Day-03",
-      "program": "d:/Strivers-DSA/Day-03/build/Debug/outDebug",
+      "cwd": "d:/Strivers-DSA/Day-04",
+      "program": "d:/Strivers-DSA/Day-04/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
